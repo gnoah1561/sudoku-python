@@ -4,6 +4,9 @@ import time
 from grid import Grid
 
 class Sudoku:
+    """
+    This class represents the working game as a whole. It creates the graphical-user-interface, handles all mouse and keyboard events, and contains the main game loop.
+    """
 
     SCREEN_WIDTH = 540
     SCREEN_HEIGHT = 600
