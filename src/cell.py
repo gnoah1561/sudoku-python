@@ -1,6 +1,7 @@
 import pygame
 
 class Cell:
+    """This class represents an individual cell in a grid."""
 
     def __init__(self, value, row, col, width , height):
         self.value = value
