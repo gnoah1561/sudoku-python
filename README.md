@@ -10,3 +10,6 @@ This is a fully-playable, object-oriented Sudoku puzzle game with a graphical-us
 * In attempt to permanently place a sketched value, make sure it is highlighted and press ENTER.
 * To instantly solve a puzzle, press S.
 * To visually solve a puzzle, press V.
+
+#### Running:
+* Run sudoku.py
