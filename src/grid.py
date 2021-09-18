@@ -5,6 +5,7 @@ from cell import Cell
 from solver import SudokuSolver
 
 class Grid:
+    """This class represents a grid (i.e. puzzle)."
 
     def __init__(self, mode, rows, cols, width, height):
         self.solver = SudokuSolver()
